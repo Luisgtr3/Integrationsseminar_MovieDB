@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: de.dhbw.ravensburg.wp.mymoviedatabase.controller.MovieControllerImplTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.782 s -- in de.dhbw.ravensburg.wp.mymoviedatabase.controller.MovieControllerImplTest
